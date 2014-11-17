@@ -1,0 +1,3 @@
+station spread: 20?
+map size: 1024x1024
+cargodist only for pax
